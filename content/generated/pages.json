@@ -1,0 +1,466 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "1M Clicks To Escape Codes (November 2026) & Status",
+    "description": "Check the developer-listed CHAPTER2 code for 1M Clicks To Escape, see source and verification notes, and learn what is still unconfirmed.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "1M CLICKS TO ESCAPE • UNOFFICIAL GUIDE",
+      "heading": "1M Clicks To Escape Codes — November 2026",
+      "lead": "CHAPTER2 appears in a public mirror of the developer description. It has not been redeemed or reward-tested by this site; other codes circulating online are not equivalent to official confirmation."
+    },
+    "sections": [
+      {
+        "id": "listed-code",
+        "heading": "Current Developer-Listed Code",
+        "paragraphs": [
+          "The text CHAPTER2 appeared after 'USE CODE' in a publicly tracked version of the game's developer description. That is an announcement-level observation, not proof that the code is still active when you read this guide. No successful in-game redemption has been independently performed for this site.",
+          "Some recent code directories list more codes or claim a fixed gem reward. Those claims can be useful leads, but they must not be presented as developer-confirmed or successfully redeemed without game evidence."
+        ],
+        "table": {
+          "caption": "Code evidence — source checked November 3, 2026",
+          "columns": [
+            "Code",
+            "Source classification",
+            "Redemption status",
+            "Reward"
+          ],
+          "rows": [
+            [
+              "CHAPTER2",
+              "Developer-listed text in public game-description mirror",
+              "Not independently tested",
+              "Not independently confirmed"
+            ],
+            [
+              "Other online claims",
+              "Third-party directories only",
+              "Unverified; not recommended as confirmed",
+              "Unverified"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "What is confirmed",
+            "paragraphs": [
+              "A public tracker of the Roblox game description displayed the literal code CHAPTER2. The code spelling is preserved exactly, with no spaces; the publication and checking dates are important."
+            ]
+          },
+          {
+            "heading": "What requires a live check",
+            "paragraphs": [
+              "Whether the redemption box still accepts CHAPTER2, the exact reward, and whether an expiration has occurred must be checked inside the live Roblox game. Our evidence does not establish these outcomes."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "redeem",
+        "heading": "How to Redeem a Code",
+        "paragraphs": [
+          "Launch the correct Roblox experience through its official link, then look for any code-entry feature in the live interface. If it is visible, enter CHAPTER2 exactly as written and read the in-game response. A successful redemption requires the game itself to display a success state; the existence of a code in a description is not that proof.",
+          "We have not independently verified the placement or name of the redemption UI. In particular, we cannot truthfully direct you to a specific Settings button, shop icon, or side menu. If you do not see a code field, consult the current in-game instructions or developer updates rather than repeatedly entering guesses."
+        ],
+        "steps": [
+          {
+            "heading": "Open the correct experience",
+            "description": "Use the official Roblox Place URL listed below. Similar-sounding games may use entirely different systems."
+          },
+          {
+            "heading": "Locate a live code field",
+            "description": "Only follow a code-entry option that you can actually see in the current game. Its location has not been verified."
+          },
+          {
+            "heading": "Check the result",
+            "description": "Submit the exact published string if the field exists, and rely on the game response—not third-party reward estimates—to judge success."
+          }
+        ]
+      },
+      {
+        "id": "other-claims",
+        "heading": "Other Codes Reported Online",
+        "paragraphs": [
+          "Some November 2026 directories report additional strings such as CLASSES and secretcodehaha and attribute specific gem rewards to them. Their availability, origin, and reward values were not verified with a working game session or a developer statement. They are recorded here strictly as unverified external claims, not as an active-code list.",
+          "A different reporting approach appears in GGRecon's November 2 article, which discussed CHAPTER2 without promising a specific reward. When sources conflict, the safest player-facing advice is to treat CHAPTER2 as developer-listed text and all redemption outcomes as pending confirmation.",
+          "Never use a third-party badge that says 'verified' as a substitute for the game's own success screen. Report an error message verbatim when testing; it may indicate expiry, a typo, a previously used code, or an entirely different system, and those possibilities should not be reduced to one conclusion."
+        ]
+      },
+      {
+        "id": "verification",
+        "heading": "How We Verify and Update Codes",
+        "paragraphs": [
+          "Evidence level one: a dated developer announcement or game description. Evidence level two: a clearly attributed, dated third-party report. Evidence level three: a reproducible in-game successful redemption with the result shown. We have level-one text for CHAPTER2 via a public mirror, but we do not claim level-three evidence.",
+          "When a code is reported as expired, the page should record the time and the evidence, then update the status only once verified. If a reward is visible on a screenshot, record which version or date it represents; do not turn an older result into an evergreen guarantee.",
+          "Source check: November 3, 2026. Roblox experience: https://www.roblox.com/games/138666683767450 ; independent tracking snapshot: https://op.gg/roblox/games/10770306793 . The Roblox page was not directly readable during our research; facts attributed to the game description were reviewed through third-party mirrors, not verified in live gameplay."
+        ],
+        "links": [
+          {
+            "label": "Start here: the game overview",
+            "slug": ""
+          },
+          {
+            "label": "Chapter 2 update status",
+            "slug": "chapter-2"
+          },
+          {
+            "label": "Beginner guide",
+            "slug": "beginner-guide"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which code did the developer publish for 1M Clicks To Escape?",
+        "answer": "CHAPTER2 appeared in a public copy of the developer game description checked on November 3, 2026. Availability today is not independently tested."
+      },
+      {
+        "question": "Is CHAPTER2 guaranteed to award 250 gems?",
+        "answer": "No such guaranteed reward is established by the evidence reviewed here. Some third-party sites report gem values, but we have not confirmed a successful redemption or reward amount."
+      },
+      {
+        "question": "Where is the code button?",
+        "answer": "The precise code entry menu has not been verified. Open the official experience and follow the live interface if it offers a redemption option."
+      },
+      {
+        "question": "Are CLASSES and secretcodehaha official working codes?",
+        "answer": "They are third-party reported strings, not independently verified official working codes in this guide."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "beginner-guide",
+      "chapter-2"
+    ],
+    "lastReviewed": "2026-11-03"
+  },
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner Guide",
+    "title": "1M Clicks To Escape Beginner Guide: Red Button & Gems",
+    "description": "Learn the published red-button goal, how gems and upgrades fit into 1M Clicks To Escape, and what to check before spending resources.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "1M CLICKS TO ESCAPE • UNOFFICIAL GUIDE",
+      "heading": "1M Clicks To Escape Beginner Guide",
+      "lead": "Start with the published game objective, identify what you can check during your own session, and use a cautious approach to gems, upgrades, and teamwork without fictional boost values."
+    },
+    "sections": [
+      {
+        "id": "getting-started",
+        "heading": "Getting Started in 1M Clicks To Escape",
+        "paragraphs": [
+          "The game's public description frames your task as escaping a white room by pressing a large red button one million times. That is the stated objective. We do not have a verified speedrun route, a complete map, or a demonstration that any particular shortcut is required to finish.",
+          "Open the experience identified by Roblox Place ID 138666683767450. Before trusting a tip, check whether the game you entered displays the same name and goal. Similar titles can lead to guides that describe unrelated mechanics.",
+          "Notice what the game itself displays when you start: a button or interaction prompt, a progress counter if one is present, any gem balance, and upgrade options. These are observation checkpoints, not claims that every device or version uses the same interface."
+        ],
+        "steps": [
+          {
+            "heading": "Confirm the game",
+            "description": "Open the official Roblox experience and compare its title to this guide."
+          },
+          {
+            "heading": "Find the stated objective",
+            "description": "Look for the large red button mentioned by the public description, and follow the live prompts rather than assumed key bindings."
+          },
+          {
+            "heading": "Observe before spending",
+            "description": "If progress, gems, or upgrades are shown, record their labels and costs before making a purchase."
+          }
+        ]
+      },
+      {
+        "id": "button",
+        "heading": "The Red Button and the Million-Click Goal",
+        "paragraphs": [
+          "The number 1,000,000 is part of the game premise; it does not tell us the precise number of physical inputs you will need. A counter might react to upgrades, automatic actions, or game modes, but those relationships have not been measured for this guide.",
+          "For a reliable first-run note, look at the displayed counter before a short series of actions and again afterward. Write down what changed, what tool or upgrade was equipped, and whether an auto-click feature was enabled. Without a before-and-after observation, avoid claiming a clicks-per-second rate.",
+          "If the game offers a way to track a run, use its visible readout. Do not confuse a promotional number in an article with a measurement inside your actual session."
+        ],
+        "subsections": [
+          {
+            "heading": "What to record",
+            "paragraphs": [
+              "Record the progress value before and after a short interval, any visible action prompt, and whether an upgrade was active. These values are yours to measure and are not prefilled here."
+            ]
+          },
+          {
+            "heading": "What this guide does not assume",
+            "paragraphs": [
+              "We do not claim a verified macro, a hidden input trick, a guaranteed completion time, or a specific ending after the counter reaches its target."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gems",
+        "heading": "Gems and Upgrades: Make a Decision with Evidence",
+        "paragraphs": [
+          "The description says players earn gems and spend them on upgrades. The current costs, exact modifiers, shop names, and acquisition rates have not been independently validated. Therefore a fixed 'best upgrades' ranking would be misleading.",
+          "If you see an upgrade in the game, compare its displayed price with your available gems and read the effect before purchasing. After buying it, observe how the actual progress counter behaves. Keep notes instead of assuming a third-party efficiency claim is accurate for the current version.",
+          "An effective comparison needs actual data: cost, displayed description, progress before, progress after, and the amount of time observed. The following worksheet fields are intentionally blank because we do not have real in-game measurements."
+        ],
+        "table": {
+          "caption": "Player observation worksheet (no fabricated values)",
+          "columns": [
+            "Check",
+            "Before",
+            "After",
+            "Evidence to record"
+          ],
+          "rows": [
+            [
+              "Gem balance",
+              "Record in game",
+              "Record in game",
+              "Visible currency count"
+            ],
+            [
+              "Upgrade price",
+              "Read current shop",
+              "N/A",
+              "Exact upgrade text and date"
+            ],
+            [
+              "Button progress",
+              "Observe current counter",
+              "Observe again",
+              "Same conditions and time interval"
+            ],
+            [
+              "Upgrade effect",
+              "Describe displayed text",
+              "Test only if purchased",
+              "Do not assume a multiplier"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "friends",
+        "heading": "Friends and the Group Auto Clicker",
+        "paragraphs": [
+          "The public description mentions playing with up to three friends and a free auto clicker associated with joining the developer's Roblox group. That is a published promotional claim, not a tested guarantee that a particular benefit is active in all builds.",
+          "Check the current Roblox experience and its official group information before joining anything. Avoid third-party downloads, executables, or sites promising auto-clickers; they are not required by this guide and can introduce account security risks.",
+          "If you are playing with others, compare your progress in the actual game rather than assuming the group size changes click counts or gem rewards. No co-op multiplier is established in our research."
+        ]
+      },
+      {
+        "id": "next",
+        "heading": "Next Steps and Limits",
+        "paragraphs": [
+          "If you want to check a published code, use the Codes page, which labels CHAPTER2 as developer-listed rather than redeem-tested. If you are looking for the current Chapter 2 status, read the dated Chapter 2 page; it is not a full walkthrough of an untested update.",
+          "This guide does not invent secret rooms, a final ending, upgrade costs, or the exact location of an in-game menu. Where those details matter, obtain a current screenshot or live observation before publishing a more detailed procedure.",
+          "Source check: November 3, 2026. Roblox experience: https://www.roblox.com/games/138666683767450 ; independent tracking snapshot: https://op.gg/roblox/games/10770306793 . The Roblox page was not directly readable during our research; facts attributed to the game description were reviewed through third-party mirrors, not verified in live gameplay."
+        ],
+        "links": [
+          {
+            "label": "Check published codes",
+            "slug": "codes"
+          },
+          {
+            "label": "Read the Chapter 2 update status",
+            "slug": "chapter-2"
+          },
+          {
+            "label": "Return to the game hub",
+            "slug": ""
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many times do I need to click to escape?",
+        "answer": "The published premise is one million button presses. The exact in-game counter behavior, time needed, and possible bonuses have not been independently tested."
+      },
+      {
+        "question": "How do I get and use gems?",
+        "answer": "The description says gems can be earned and spent on upgrades. The precise earning actions, store costs, and upgrade effects require a live check."
+      },
+      {
+        "question": "Should I join a Roblox group for an auto clicker?",
+        "answer": "The public description advertises a group auto-clicker benefit. Check the linked official Roblox experience and the developer group to confirm current availability."
+      },
+      {
+        "question": "What is the fastest way to reach Chapter 2?",
+        "answer": "A verified fastest route is not available from our current evidence. This guide does not make unsupported speedrun or chapter-unlock claims."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "chapter-2"
+    ],
+    "lastReviewed": "2026-11-03"
+  },
+  {
+    "enabled": true,
+    "slug": "chapter-2",
+    "pageType": "updates",
+    "navLabel": "Chapter 2",
+    "title": "1M Clicks To Escape Chapter 2: CH2 Update Guide",
+    "description": "See what is confirmed about 1M Clicks To Escape Chapter 2, where the CH2 reports come from, and which gameplay details still need checking.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "1M CLICKS TO ESCAPE • UNOFFICIAL GUIDE",
+      "heading": "1M Clicks To Escape Chapter 2 Update",
+      "lead": "CH2 appears in public game-title tracking and dated game coverage. Here is what that establishes, what remains unknown, and where to check without relying on a fabricated walkthrough."
+    },
+    "sections": [
+      {
+        "id": "status",
+        "heading": "Is Chapter 2 Available?",
+        "paragraphs": [
+          "Dated public trackers displayed a CH2 label in the 1M Clicks To Escape title, and November 2, 2026 press coverage described Chapter 2 as having arrived. Together those reports support an update-status article, but our research did not include a successful in-game playthrough or direct inspection of the chapter menu.",
+          "A label in a title is not a verified list of the update's levels, objectives, or boss encounters. Treat any claim about a precise Chapter 2 unlocking requirement as unverified until a player can capture the current game interface.",
+          "For the correct experience, use the Roblox link in the game hub rather than a similarly named escape title. If the current listing no longer shows CH2, the historical source record still explains why older articles mention it."
+        ],
+        "subsections": [
+          {
+            "heading": "Evidence reviewed",
+            "paragraphs": [
+              "A public tracking snapshot of the Roblox experience displayed CH2; GGRecon published Chapter 2-related Codes coverage dated November 2. These are external documents, not footage from our session."
+            ]
+          },
+          {
+            "heading": "What we have not verified",
+            "paragraphs": [
+              "The chapter unlock condition, required click total, objectives, rooms, endings, and precise steps are not confirmed by current hands-on evidence. This page deliberately does not pretend otherwise."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "timeline",
+        "heading": "Chapter 2 Source Timeline",
+        "paragraphs": [
+          "This timeline records when a source mentioned Chapter 2. It is not a timeline of player completions or a verified release changelog. Dates belong to the named sources; a later edit or game revision may change availability.",
+          "November 2, 2026: GGRecon published a code article linking CHAPTER2 to the newly described chapter. November 3, 2026: the tracker material reviewed for this site displayed a CH2 title tag and a developer-description code reference. The exact time the update appeared in every country or account is not established."
+        ],
+        "table": {
+          "caption": "Source-based update timeline",
+          "columns": [
+            "Source date",
+            "Observed report",
+            "Limit"
+          ],
+          "rows": [
+            [
+              "2026-11-02",
+              "GGRecon reported Chapter 2-related content and the CHAPTER2 text",
+              "Not an independently tested chapter route"
+            ],
+            [
+              "2026-11-03",
+              "Public tracker showed CH2 in the game title",
+              "Title label alone cannot establish mechanics"
+            ],
+            [
+              "Not recorded",
+              "In-game chapter screen or completion proof",
+              "Not available to this site"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "what-change",
+        "heading": "What Changed in Chapter 2?",
+        "paragraphs": [
+          "A new chapter label is an update signal, not a complete feature list. We have no first-hand evidence here for a new map layout, character, item price, boss, cutscene, or ending. It would be misleading to create a step-by-step Chapter 2 walkthrough from the label alone.",
+          "To expand this into a real chapter guide, capture the game's current update notes, the chapter selection or transition screen, and a short ordered set of visible objectives. Record the game version and screenshot date. Only then can verified tasks be converted into instructions without borrowing uncertain mechanics from another title.",
+          "The CHAPTER2 text also appears as a code in the mirrored developer description. This does not prove that entering the code unlocks Chapter 2 or that it grants a particular currency reward. Read the Codes guide for the evidence and redemption status."
+        ],
+        "links": [
+          {
+            "label": "Codes: CHAPTER2 source status",
+            "slug": "codes"
+          },
+          {
+            "label": "Beginner guide for the game loop",
+            "slug": "beginner-guide"
+          }
+        ]
+      },
+      {
+        "id": "how-to-check",
+        "heading": "How to Check the Update Yourself",
+        "paragraphs": [
+          "Open the official Roblox experience and read the live title and any in-game update notes. If Chapter 2 content is presented, record the exact wording of the menu, any prerequisite text, and the current date. Treat the UI as stronger evidence for your own playthrough than a third-party summary.",
+          "Avoid treating an apparent update teaser or countdown as a completed feature. If an entrance, button, or progress requirement is not visible, do not invent one. A useful contribution is a screenshot with the relevant part of the UI clearly readable and without personal account details.",
+          "This independent website has not recorded a Chapter 2 completion, a walkthrough video, or a repeatable unlock sequence. We will distinguish such a future verified account from the historical reports summarized here.",
+          "Source check: November 3, 2026. Roblox experience: https://www.roblox.com/games/138666683767450 ; independent tracking snapshot: https://op.gg/roblox/games/10770306793 . The Roblox page was not directly readable during our research; facts attributed to the game description were reviewed through third-party mirrors, not verified in live gameplay."
+        ],
+        "steps": [
+          {
+            "heading": "Check the official game",
+            "description": "Verify the Place URL and read the current Roblox title before following older CH2 reports."
+          },
+          {
+            "heading": "Look for update evidence",
+            "description": "Inspect any in-game update banner or chapter view, without assuming its position or label."
+          },
+          {
+            "heading": "Record exact details",
+            "description": "Note any visible prerequisites or changes with a date, then compare against dated reports."
+          }
+        ]
+      },
+      {
+        "id": "related",
+        "heading": "Related Guides",
+        "paragraphs": [
+          "If you are new to the button-and-gems premise, the Beginner Guide focuses on the verified core description. If you came here after seeing the literal code CHAPTER2, the Codes page explains why a code string and a chapter title should not be treated as the same mechanic."
+        ],
+        "links": [
+          {
+            "label": "Start from the game overview",
+            "slug": ""
+          },
+          {
+            "label": "See the CHAPTER2 code evidence",
+            "slug": "codes"
+          },
+          {
+            "label": "Read the beginner guide",
+            "slug": "beginner-guide"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Did Chapter 2 launch in 1M Clicks To Escape?",
+        "answer": "CH2 appears in public game-title tracking and November 2 coverage described Chapter 2. We have not verified its exact in-game launch moment or completed its content."
+      },
+      {
+        "question": "How do I unlock Chapter 2?",
+        "answer": "The precise unlock requirement has not been confirmed in current in-game evidence. Check the live game for any explicit prerequisite before trusting an online walkthrough."
+      },
+      {
+        "question": "Does code CHAPTER2 unlock the new chapter?",
+        "answer": "There is no verified evidence here that the CHAPTER2 code unlocks the chapter. The code text and chapter label are separate observations."
+      },
+      {
+        "question": "Is this a full Chapter 2 walkthrough?",
+        "answer": "No. This is an evidence-based update-status page. A factual walkthrough requires verified objectives, screenshots, and an actual chapter route."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-11-03"
+  }
+]
