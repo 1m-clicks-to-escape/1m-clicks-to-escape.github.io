@@ -1,13 +1,11 @@
-import { integrations } from "@/config/integrations";
 import { NativeAdClient } from "./native-ad-client";
 
 export function NativeAdSlot() {
-  if (integrations.ads.provider !== "adsterra-native") return null;
-
-  return (
+  return <aside className="ad-slot ad-native" aria-label="Advertisement">
+    <p className="ad-label">Advertisement</p>
     <NativeAdClient
-      scriptUrl={integrations.ads.scriptUrl}
-      containerId={integrations.ads.containerId}
+      scriptUrl="https://bauval.org/21/6fd796539e83855b113c759828a99498"
+      containerId="container-6fd796539e83855b113c759828a99498"
     />
-  );
+  </aside>;
 }

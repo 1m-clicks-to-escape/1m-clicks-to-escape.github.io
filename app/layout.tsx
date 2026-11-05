@@ -1,3 +1,4 @@
+import Script from "next/script";
 import type { CSSProperties, ReactNode } from "react";
 import { Analytics } from "@/components/integrations/analytics";
 import { SiteFooter } from "@/components/site/site-footer";
@@ -48,6 +49,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
         {fixed && fixedSkin === "arcade-play" ? null : <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />}
+        <Script id="adsterra-social-bar" strategy="afterInteractive" data-cfasync="false" src="https://bauval.org/14/c42b42a0e5f90890c1da51e4d0a9298a" />
       </body>
     </html>
   );

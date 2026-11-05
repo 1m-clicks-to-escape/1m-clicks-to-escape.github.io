@@ -557,3 +557,12 @@ body[data-fixed-template="horror"] main {
     padding: 10px;
   }
 }
+
+/* Advertising wrappers only; never override provider creative styles. */
+.ad-slot { min-width: 0; max-width: 100%; margin-block: 1.5rem; }
+.ad-label { margin: 0 0 .5rem; font-size: 10px; font-weight: 400; line-height: 1.4; letter-spacing: .08em; text-align: center; color: hsl(var(--muted-foreground)); }
+.ad-banner-host { display: flex; justify-content: center; min-height: 50px; overflow: hidden; }
+.ad-banner-host iframe { display: block; flex-shrink: 0; border: 0; }
+.ad-native { padding: 1rem 0; border-block: 1px solid hsl(var(--border)); }
+.ad-native [data-native-ad-slot] { min-height: 120px; max-width: 100%; overflow-x: clip; }
+@media (min-width: 768px) { .ad-banner-host { min-height: 90px; } }

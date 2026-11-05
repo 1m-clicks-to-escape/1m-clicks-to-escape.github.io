@@ -1,18 +1,23 @@
+import type { ReactNode } from "react";
+import { Fragment } from "react";
 import { ArrowRight, CheckCircle2 } from "lucide-react";
 import Link from "next/link";
 import type { PageSection } from "@/config/types";
 import { routePath } from "@/lib/urls";
 import { DataTable } from "./data-table";
 
-export function PageSections({ sections }: { sections: PageSection[] }) {
+export function PageSections({ sections, afterFirstContent }: { sections: PageSection[]; afterFirstContent?: ReactNode }) {
   return (
     <div className="space-y-16">
-      {sections.map((section) => (
+      {sections.map((section, sectionIndex) => (
         <section id={section.id} key={section.id} className="scroll-mt-24">
           {section.eyebrow ? <p className="eyebrow">{section.eyebrow}</p> : null}
           <h2>{section.heading}</h2>
-          {section.intro ? <p className="section-lead">{section.intro}</p> : null}
-          {section.paragraphs?.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {section.intro ? <><p className="section-lead">{section.intro}</p>{sectionIndex === 0 ? afterFirstContent : null}</> : null}
+          {section.paragraphs?.map((paragraph, index) => <Fragment key={paragraph}>
+            <p>{paragraph}</p>
+            {sectionIndex === 0 && !section.intro && index === 0 ? afterFirstContent : null}
+          </Fragment>)}
 
           {section.bullets?.length ? (
             <ul className="mt-4 space-y-2">
@@ -66,6 +71,7 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
               ))}
             </div>
           ) : null}
+          {sectionIndex === 0 && !section.intro && !section.paragraphs?.length ? afterFirstContent : null}
         </section>
       ))}
     </div>
